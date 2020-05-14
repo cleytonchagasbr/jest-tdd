@@ -1,0 +1,14 @@
+{
+  "name": "jest-tdd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cleytonchagasbr/jest-tdd.git",
+  "author": "Cleyton Chagas <cleyton-chagas@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+  "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
